@@ -1,4 +1,3 @@
-### Shall be the human race!
 ```
                              \\\\\\\
                             \\\\\\\\\\\\
