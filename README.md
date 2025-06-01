@@ -30,8 +30,6 @@ _____________|','   ///_/-------------/   |
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 39 Public Repositories 
@@ -80,7 +78,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2025 18:45:48 UTC
+ Last Updated on 01/06/2025 18:46:09 UTC
 <!--END_SECTION:waka-->
 
 <picture>
