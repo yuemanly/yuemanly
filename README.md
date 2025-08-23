@@ -42,16 +42,16 @@ _____________|','   ///_/-------------/   |
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SSH Config               8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ssh                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -67,7 +67,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2025 18:48:04 UTC
+ Last Updated on 23/08/2025 18:44:57 UTC
 <!--END_SECTION:waka-->
 
 <picture>
