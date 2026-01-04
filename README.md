@@ -22,13 +22,15 @@ _____________|','   ///_/-------------/   |
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,6 +38,30 @@ _____________|','   ///_/-------------/   |
  > 
 > 🔑 0 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    26 mins             ██████████░░░░░░░░░░░░░░░   40.36 % 
+SQL                      16 mins             ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+Python                   14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+CSV                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+
+🔥 Editors: 
+VS Code                  57 mins             ██████████████████████░░░   87.50 % 
+DataGrip                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+
+🐱‍💻 Projects: 
+ActiveUsersAttributionAna44 mins             █████████████████░░░░░░░░   66.59 % 
+vscode                   14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+Datagrip                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+
+💻 Operating System: 
+Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -49,7 +75,7 @@ Python                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 18:50:17 UTC
+ Last Updated on 04/01/2026 18:50:14 UTC
 <!--END_SECTION:waka-->
 
 <picture>
