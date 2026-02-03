@@ -22,6 +22,8 @@ _____________|','   ///_/-------------/   |
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -36,6 +38,24 @@ _____________|','   ///_/-------------/   |
  > 
 > 🔑 0 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+SQL                      18 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+DataGrip                 18 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Datagrip                 18 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      18 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -49,7 +69,7 @@ Python                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 18:59:43 UTC
+ Last Updated on 03/02/2026 19:25:39 UTC
 <!--END_SECTION:waka-->
 
 <picture>
