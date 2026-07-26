@@ -44,28 +44,28 @@ _____________|','   ///_/-------------/   |
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.61 % 
-Markdown                 5 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-Other                    3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-JavaScript               1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-JSON                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Python                   8 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.57 % 
+Markdown                 6 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+Other                    3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+JavaScript               1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+JSON                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 
 🔥 Editors: 
-Codex CLI                16 hrs 51 mins      █████████████████░░░░░░░░   68.67 % 
-Cursor                   4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-Claude Code              2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-VS Code                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Codex CLI                17 hrs 45 mins      ██████████████████░░░░░░░   72.15 % 
+Cursor                   4 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Claude Code              1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+VS Code                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 DataGrip                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🐱‍💻 Projects: 
-MonthMeeting             8 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.07 % 
-vscode                   8 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.61 % 
-LogActionSDK             1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-L3agent                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-log_action               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+MonthMeeting             8 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.35 % 
+vscode                   8 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.57 % 
+LogActionSDK             1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+L3agent                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+log_action               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 💻 Operating System: 
-Mac                      24 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -81,7 +81,7 @@ Python                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:42:12 UTC
+ Last Updated on 26/07/2026 19:43:09 UTC
 <!--END_SECTION:waka-->
 
 <picture>
