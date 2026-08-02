@@ -46,52 +46,52 @@ _____________|','   ///_/-------------/   |
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Markdown                 5 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Python                   4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-JavaScript               4 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Bash                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Other                    5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Markdown                 5 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+JavaScript               4 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Python                   4 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Bash                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 
 🔥 Editors: 
-Codex CLI                13 hrs 40 mins      ████████████░░░░░░░░░░░░░   49.09 % 
-Claude Code              7 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-Cursor                   5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-DataGrip                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Codex CLI                12 hrs 46 mins      ███████████░░░░░░░░░░░░░░   45.25 % 
+Claude Code              8 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+Cursor                   6 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+DataGrip                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🐱‍💻 Projects: 
-MonthMeeting             5 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-vscode                   4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-log_action               2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-AutoCodePlacement        2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-city-profit-operation-age2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+MonthMeeting             5 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+vscode                   4 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+log_action               2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+AutoCodePlacement        2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+city-profit-operation-age2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
 
 💻 Operating System: 
-Mac                      27 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 8 mins (93.83%)
+⏱ AI Coding Time: 26 hrs 22 mins (93.42%)
 
-✍️ 15,108 lines written by AI, 100 lines written by hand (99.34% AI-written)
+✍️ 15,482 lines written by AI, 102 lines written by hand (99.35% AI-written)
 
-🔤 610,368,118 Input Tokens, 1,772,520 Output Tokens
+🔤 611,950,604 Input Tokens, 1,799,208 Output Tokens
 
-💵 $2905.93 Estimated AI Cost This Week
+💵 $2917.29 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 267 AI Prompts
+🧠 42 AI Sessions, 259 AI Prompts
 
-GPT                      10,585 lines        ██████████████████░░░░░░░   70.30 % 
-Opus                     2,910 lines         █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-Sonnet                   1,562 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+GPT                      10,346 lines        █████████████████░░░░░░░░   67.05 % 
+Opus                     3,525 lines         ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+Sonnet                   1,559 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.34% of written lines came from AI
-📚 Verbose Prompter — average 2,842 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.46% of changed lines were hand-edited
+🤖 AI-Driven — 99.35% of written lines came from AI
+📚 Verbose Prompter — average 2,438 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 1.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -107,7 +107,7 @@ Python                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 19:42:35 UTC
+ Last Updated on 02/08/2026 19:42:16 UTC
 <!--END_SECTION:waka-->
 
 <picture>
