@@ -46,52 +46,52 @@ _____________|','   ///_/-------------/   |
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-Markdown                 3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-Python                   3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-SQL                      2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-HTML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Python                   3 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+Other                    3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+SQL                      2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Markdown                 2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+JSON                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 41 mins       ███████████░░░░░░░░░░░░░░   42.69 % 
-Codex CLI                4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-Claude Code              3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
-VS Code                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Agent                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Cursor                   6 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.73 % 
+Codex CLI                3 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+Claude Code              3 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Agent                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🐱‍💻 Projects: 
-vscode                   3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-chelaile-ad-spec         2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-log_action               2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-ActiveUsersAttributionAna1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-test                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+vscode                   3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+chelaile-ad-spec         2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+ActiveUsersAttributionAna1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+MonthMeeting             1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Data-Analysis-Agent      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 
 💻 Operating System: 
-Mac                      15 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 39 mins (93.41%)
+⏱ AI Coding Time: 13 hrs 32 mins (95.71%)
 
-✍️ 4,354 lines written by AI, 29 lines written by hand (99.34% AI-written)
+✍️ 5,347 lines written by AI, 8 lines written by hand (99.85% AI-written)
 
-🔤 222,162,301 Input Tokens, 713,059 Output Tokens
+🔤 164,088,624 Input Tokens, 792,674 Output Tokens
 
-💵 $987.73 Estimated AI Cost This Week
+💵 $889.74 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 239 AI Prompts
+🧠 39 AI Sessions, 227 AI Prompts
 
-GPT                      2,598 lines         ███████████████░░░░░░░░░░   58.29 % 
-Opus                     1,859 lines         ██████████░░░░░░░░░░░░░░░   41.71 % 
+GPT                      4,658 lines         █████████████████████░░░░   85.30 % 
+Opus                     803 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.34% of written lines came from AI
-📚 Verbose Prompter — average 5,120 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.78% of changed lines were hand-edited
+🤖 AI-Driven — 99.85% of written lines came from AI
+📚 Verbose Prompter — average 6,153 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -107,7 +107,7 @@ Python                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 19:10:39 UTC
+ Last Updated on 10/08/2026 19:29:32 UTC
 <!--END_SECTION:waka-->
 
 <picture>
