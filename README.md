@@ -22,11 +22,11 @@ _____________|','   ///_/-------------/   |
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-656%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-662%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-384%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-391%20hrs%2022%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,54 +46,54 @@ _____________|','   ///_/-------------/   |
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-Other                    5 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-Markdown                 4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-JavaScript               3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-SQL                      2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Python                   7 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+Markdown                 6 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Other                    5 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+JavaScript               4 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+SQL                      2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   36.62 % 
-Codex Vscode             5 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Cursor                   4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Codex CLI                2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Agent                    1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Claude Code              13 hrs 58 mins      ████████████░░░░░░░░░░░░░   47.45 % 
+Cursor                   5 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Codex Vscode             4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Codex CLI                2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Agent                    1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 
 🐱‍💻 Projects: 
-vscode                   6 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-Data-Analysis-Agent      4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-city-profit-operation-age3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-MonthMeeting             2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-ActiveUsersAttributionAna2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+vscode                   7 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+MonthMeeting             4 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+city-profit-operation-age3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Data-Analysis-Agent      3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+ActiveUsersAttributionAna2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
 
 💻 Operating System: 
-Mac                      26 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 38 mins (96.41%)
+⏱ AI Coding Time: 28 hrs 29 mins (96.76%)
 
-✍️ 15,377 lines written by AI, 3 lines written by hand (99.98% AI-written)
+✍️ 12,986 lines written by AI, 2 lines written by hand (99.98% AI-written)
 
-🔤 32,107,595 Input Tokens, 1,978,821 Output Tokens
+🔤 46,310,149 Input Tokens, 2,175,435 Output Tokens
 
-💵 $445.08 Estimated AI Cost This Week
+💵 $514.44 Estimated AI Cost This Week
 
-🧠 71 AI Sessions, 394 AI Prompts
+🧠 70 AI Sessions, 371 AI Prompts
 
-GPT                      8,492 lines         █████████████░░░░░░░░░░░░   53.59 % 
-Opus                     5,020 lines         ████████░░░░░░░░░░░░░░░░░   31.68 % 
-Grok                     1,211 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Composer                 754 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Sonnet                   368 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Opus                     6,479 lines         ████████████░░░░░░░░░░░░░   48.17 % 
+GPT                      4,422 lines         ████████░░░░░░░░░░░░░░░░░   32.87 % 
+Grok                     1,228 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Composer                 954 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Sonnet                   368 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 6,067 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.3% of changed lines were hand-edited
+📚 Verbose Prompter — average 4,705 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -109,7 +109,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 19:02:06 UTC
+ Last Updated on 20/08/2026 19:09:41 UTC
 <!--END_SECTION:waka-->
 
 <picture>
