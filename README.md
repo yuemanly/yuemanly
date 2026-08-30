@@ -46,52 +46,52 @@ _____________|','   ///_/-------------/   |
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.94 % 
-Other                    4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-Markdown                 2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Bash                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-SQL                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Python                   4 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   32.38 % 
+Other                    3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+Markdown                 2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+SQL                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   35.44 % 
-Claude Code              5 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   34.93 % 
-Codex Vscode             1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Grok Build               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Agent                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Cursor                   5 hrs               █████████░░░░░░░░░░░░░░░░   36.78 % 
+Claude Code              4 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
+Codex Vscode             1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Grok Build               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Codex CLI                37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 🐱‍💻 Projects: 
-vscode                   4 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.94 % 
-ActiveUsersAttributionAna2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-skills                   1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Data-Analysis-Agent      1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-test                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+vscode                   4 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   32.38 % 
+ActiveUsersAttributionAna2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+skills                   1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Data-Analysis-Agent      1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+test                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 
 💻 Operating System: 
-Mac                      15 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 58 mins (98.1%)
+⏱ AI Coding Time: 13 hrs 31 mins (99.45%)
 
-✍️ 4,337 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,313 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 63,253,801 Input Tokens, 1,043,089 Output Tokens
+🔤 58,380,596 Input Tokens, 992,808 Output Tokens
 
-💵 $544.35 Estimated AI Cost This Week
+💵 $527.63 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 217 AI Prompts
+🧠 43 AI Sessions, 193 AI Prompts
 
-Opus                     1,885 lines         ██████████░░░░░░░░░░░░░░░   41.52 % 
-GPT                      1,857 lines         ██████████░░░░░░░░░░░░░░░   40.90 % 
-Sonnet                   537 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Grok                     198 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Composer                 63 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Opus                     1,877 lines         ██████████░░░░░░░░░░░░░░░   41.56 % 
+GPT                      1,841 lines         ██████████░░░░░░░░░░░░░░░   40.77 % 
+Sonnet                   537 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Grok                     198 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Composer                 63 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,462 characters per prompt
+📚 Verbose Prompter — average 4,501 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -109,7 +109,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 21:03:54 UTC
+ Last Updated on 30/08/2026 21:21:51 UTC
 <!--END_SECTION:waka-->
 
 <picture>
