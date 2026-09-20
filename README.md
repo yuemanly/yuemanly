@@ -46,53 +46,54 @@ _____________|','   ///_/-------------/   |
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.94 % 
-Python                   7 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.87 % 
-Other                    5 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-JSON                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Markdown                 8 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+Python                   8 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+Other                    5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+JSON                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+JavaScript               1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 21 mins      █████████████░░░░░░░░░░░░   52.72 % 
-Cursor                   4 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-Codex Vscode             2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Agent                    2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Codex CLI                1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Claude Code              15 hrs 52 mins      ██████████████░░░░░░░░░░░   54.74 % 
+Cursor                   5 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Codex Vscode             2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Agent                    2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Codex CLI                1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 🐱‍💻 Projects: 
-vscode                   7 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-Data-Analysis-Agent      5 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-MonthMeeting             4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Channel                  1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-skills                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+vscode                   8 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+MonthMeeting             4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Data-Analysis-Agent      4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Channel                  2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+city-data-dashboard      1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 💻 Operating System: 
-Mac                      25 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 56 mins (98.4%)
+⏱ AI Coding Time: 28 hrs 32 mins (98.45%)
 
-✍️ 5,086 lines written by AI, 77 lines written by hand (98.51% AI-written)
+✍️ 5,575 lines written by AI, 79 lines written by hand (98.6% AI-written)
 
-🔤 12,603,589 Input Tokens, 1,010,130 Output Tokens
+🔤 12,523,114 Input Tokens, 1,093,009 Output Tokens
 
-💵 $338.31 Estimated AI Cost This Week
+💵 $346.34 Estimated AI Cost This Week
 
-🧠 90 AI Sessions, 361 AI Prompts
+🧠 101 AI Sessions, 415 AI Prompts
 
-Opus                     3,245 lines         ████████████████░░░░░░░░░   62.58 % 
-GPT                      1,442 lines         ███████░░░░░░░░░░░░░░░░░░   27.81 % 
-Grok                     366 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Composer                 132 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Opus                     3,513 lines         ███████████████░░░░░░░░░░   61.91 % 
+GPT                      1,307 lines         ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+Grok                     366 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Cursor                   356 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Composer                 132 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.51% of written lines came from AI
-📚 Verbose Prompter — average 13,166 characters per prompt
+🤖 AI-Driven — 98.6% of written lines came from AI
+📚 Verbose Prompter — average 10,765 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.98% of changed lines were hand-edited
+🚀 High AI Trust — 3.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -108,7 +109,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 20:54:19 UTC
+ Last Updated on 20/09/2026 20:58:38 UTC
 <!--END_SECTION:waka-->
 
 <picture>
