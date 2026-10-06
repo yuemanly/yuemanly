@@ -46,51 +46,51 @@ _____________|','   ///_/-------------/   |
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 44 mins       ██████████████░░░░░░░░░░░   54.36 % 
-Python                   3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-Other                    1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-SQL                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Python                   2 hrs 18 mins       ███████████░░░░░░░░░░░░░░   43.87 % 
+Markdown                 1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+Other                    56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 54 mins       ███████████████████░░░░░░   74.75 % 
-Cursor                   1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Codex Vscode             54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-DataGrip                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Bot                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Claude Code              3 hrs 55 mins       ███████████████████░░░░░░   74.26 % 
+Cursor                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Codex Vscode             26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+DataGrip                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Bot                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🐱‍💻 Projects: 
-Data-Analysis-Agent      3 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.40 % 
-vscode                   3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-azkaban-web              55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-WeeklyReport             48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-绩效                       31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+vscode                   2 hrs 18 mins       ███████████░░░░░░░░░░░░░░   43.87 % 
+Data-Analysis-Agent      1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+azkaban-web              31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+绩效                       30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+env                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 💻 Operating System: 
-Mac                      10 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      5 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 6 mins (95.57%)
+⏱ AI Coding Time: 5 hrs 6 mins (96.71%)
 
-✍️ 4,036 lines written by AI, 20 lines written by hand (99.51% AI-written)
+✍️ 1,277 lines written by AI, 15 lines written by hand (98.84% AI-written)
 
-🔤 7,232,721 Input Tokens, 847,790 Output Tokens
+🔤 4,263,387 Input Tokens, 382,012 Output Tokens
 
-💵 $131.65 Estimated AI Cost This Week
+💵 $67.15 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 112 AI Prompts
+🧠 21 AI Sessions, 66 AI Prompts
 
-Opus                     3,645 lines         ██████████████████████░░░   87.43 % 
-GPT                      524 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Opus                     973 lines           ███████████████████░░░░░░   74.39 % 
+GPT                      335 lines           ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.51% of written lines came from AI
-📄 Detailed Prompter — average 1,476 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.7% of changed lines were hand-edited
+🤖 AI-Driven — 98.84% of written lines came from AI
+📚 Verbose Prompter — average 2,541 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 7.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -106,7 +106,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 21:45:23 UTC
+ Last Updated on 06/10/2026 00:14:02 UTC
 <!--END_SECTION:waka-->
 
 <picture>
