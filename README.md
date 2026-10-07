@@ -46,51 +46,47 @@ _____________|','   ///_/-------------/   |
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 21 mins             ███████████░░░░░░░░░░░░░░   45.15 % 
-Python                   12 mins             ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-JavaScript               10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+JavaScript               21 mins             ████████░░░░░░░░░░░░░░░░░   33.23 % 
+Python                   17 mins             ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+Markdown                 17 mins             ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 🔥 Editors: 
-Claude Code              23 mins             ████████████░░░░░░░░░░░░░   47.90 % 
-Cursor                   14 mins             ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-Codex Vscode             9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Bot                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Codex Vscode             52 mins             █████████████████████░░░░   83.21 % 
+Cursor                   10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-绩效                       17 mins             █████████░░░░░░░░░░░░░░░░   35.69 % 
-vscode                   12 mins             ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-city-profit-operation-age10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-WeeklyReport             7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-skills                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+WeeklyReport             27 mins             ███████████░░░░░░░░░░░░░░   44.14 % 
+vscode                   17 mins             ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+绩效                       17 mins             ███████░░░░░░░░░░░░░░░░░░   27.48 % 
 
 💻 Operating System: 
-Mac                      48 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 mins (91.9%)
+⏱ AI Coding Time: 1 hr 2 mins (99.51%)
 
-✍️ 498 lines written by AI, 4 lines written by hand (99.2% AI-written)
+✍️ 525 lines written by AI, 4 lines written by hand (99.24% AI-written)
 
-🔤 1,893,700 Input Tokens, 62,684 Output Tokens
+🔤 751,299 Input Tokens, 70,861 Output Tokens
 
-💵 $18.37 Estimated AI Cost This Week
+💵 $4.80 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 15 AI Prompts
+🧠 5 AI Sessions, 14 AI Prompts
 
-Opus                     406 lines           ███████████████████░░░░░░   77.04 % 
-GPT                      121 lines           ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+GPT                      526 lines           ████████████████████████░   94.77 % 
+Opus                     29 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.2% of written lines came from AI
-📚 Verbose Prompter — average 4,486 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 15.45% of changed lines were hand-edited
+🤖 AI-Driven — 99.24% of written lines came from AI
+📚 Verbose Prompter — average 4,499 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 14.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -106,7 +102,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 22:43:52 UTC
+ Last Updated on 07/10/2026 23:14:27 UTC
 <!--END_SECTION:waka-->
 
 <picture>
