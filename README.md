@@ -46,43 +46,44 @@ _____________|','   ///_/-------------/   |
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               21 mins             ████████░░░░░░░░░░░░░░░░░   32.95 % 
-Other                    20 mins             ████████░░░░░░░░░░░░░░░░░   31.03 % 
-Python                   17 mins             ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Other                    22 mins             ████████░░░░░░░░░░░░░░░░░   32.73 % 
+JavaScript               21 mins             ████████░░░░░░░░░░░░░░░░░   32.14 % 
+Python                   17 mins             ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-Codex Vscode             55 mins             █████████████████████░░░░   83.82 % 
-Cursor                   10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Codex Vscode             57 mins             █████████████████████░░░░   84.21 % 
+Cursor                   10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 
 🐱‍💻 Projects: 
-WeeklyReport             46 mins             ██████████████████░░░░░░░   70.63 % 
-vscode                   17 mins             ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-绩效                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+WeeklyReport             46 mins             █████████████████░░░░░░░░   68.89 % 
+vscode                   17 mins             ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+test                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+绩效                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 💻 Operating System: 
-Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
+Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 5 mins (99.53%)
+⏱ AI Coding Time: 1 hr 7 mins (99.54%)
 
 ✍️ 404 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 673,648 Input Tokens, 55,527 Output Tokens
+🔤 743,606 Input Tokens, 57,969 Output Tokens
 
-💵 $2.58 Estimated AI Cost This Week
+💵 $2.77 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 18 AI Prompts
+🧠 5 AI Sessions, 20 AI Prompts
 
 GPT                      405 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 8,055 characters per prompt
+📚 Verbose Prompter — average 7,376 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 17.68% of changed lines were hand-edited
 ```
@@ -100,7 +101,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 22:47:56 UTC
+ Last Updated on 10/10/2026 21:55:07 UTC
 <!--END_SECTION:waka-->
 
 <picture>
