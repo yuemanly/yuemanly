@@ -46,46 +46,53 @@ _____________|','   ///_/-------------/   |
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    22 mins             ████████░░░░░░░░░░░░░░░░░   32.73 % 
-JavaScript               21 mins             ████████░░░░░░░░░░░░░░░░░   32.14 % 
-Python                   17 mins             ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Other                    1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   29.86 % 
+Markdown                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+Python                   56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Text                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Bash                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 🔥 Editors: 
-Codex Vscode             57 mins             █████████████████████░░░░   84.21 % 
-Cursor                   10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Cursor                   2 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   35.19 % 
+Claude Code              2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.09 % 
+Codex Vscode             1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Bot                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Agent                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🐱‍💻 Projects: 
-WeeklyReport             46 mins             █████████████████░░░░░░░░   68.89 % 
-vscode                   17 mins             ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-test                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-绩效                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+azkaban-web              1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+vscode                   56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+TargetManagement         43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Unknown Project          42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+chelaileapp              34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 
 💻 Operating System: 
-Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
+Mac                      6 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 7 mins (99.54%)
+⏱ AI Coding Time: 6 hrs 29 mins (98.18%)
 
-✍️ 404 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,371 lines written by AI, 17 lines written by hand (98.78% AI-written)
 
-🔤 743,606 Input Tokens, 57,969 Output Tokens
+🔤 1,747,540 Input Tokens, 263,127 Output Tokens
 
-💵 $2.77 Estimated AI Cost This Week
+💵 $16.84 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 20 AI Prompts
+🧠 14 AI Sessions, 76 AI Prompts
 
-GPT                      405 lines           █████████████████████████   100.00 % 
+GPT                      1,005 lines         ██████████████████░░░░░░░   73.09 % 
+Opus                     284 lines           █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Grok                     86 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,376 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 17.68% of changed lines were hand-edited
+🤖 AI-Driven — 98.78% of written lines came from AI
+📄 Detailed Prompter — average 715 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 3.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -101,7 +108,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 22:16:40 UTC
+ Last Updated on 13/10/2026 00:53:57 UTC
 <!--END_SECTION:waka-->
 
 <picture>
